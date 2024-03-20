@@ -10,4 +10,4 @@ I am a skilled Full Stack Developer with a strong background in both web and mob
 
 ## 📬 How to Reach Me 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/arshiashaik)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshiashaik)
