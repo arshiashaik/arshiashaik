@@ -11,5 +11,5 @@ Hello, I am Arshia Shaik 🙋🏻‍♀️
 
 ## 📬 How to Reach Me 
 
-Email: azshaik74@gmail.com
+
 
