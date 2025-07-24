@@ -11,7 +11,8 @@ Hello, I am Arshia Shaik 🙋🏻‍♀️
 
 ## 📬 How to Reach Me 
 
-[Linkedin]("www./linkedin.com/arshiashaik")
+[Visit my website](https://mywebsite.com)
+
 
 
 
