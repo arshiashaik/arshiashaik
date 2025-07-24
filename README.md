@@ -5,9 +5,9 @@ Hello, I am Arshia Shaik 🙋🏻‍♀️
 
 ## 👩🏻‍💻 Key Skills
 
-- HTML5, CSS3, JavaScript, TypeScript, React.js, React Native, Redux, NextJs, Angular, Bootstrap, Tailwind CSS, Responsive Design
+- HTML5, CSS3, JavaScript, React.js, React Native, Bootstrap, Responsive Design
 - Node.js, Express.js, MongoDB, Git, RESTful APIs
-- High Charts, JWT
+- High Charts
 
 ## 📬 How to Reach Me 
 
